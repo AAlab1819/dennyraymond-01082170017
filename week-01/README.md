@@ -50,8 +50,8 @@ at first i need to know if the given number is even or odd, because it use for a
   ok, so i come with one idea that we can get the DENUMERATOR by subtract between GiVEN NUMBER and NUMERATOR we just get 
   
   maybe just see the source code, so sorry for my bad english 
-  ### QUESTION [questions](http://codeforces.com/contest/854/problem/A)
-  ### SOLUTION [solutions](http://codeforces.com/contest/854/submission/42498794)
+  ### QUESTION [Click MEE](http://codeforces.com/contest/854/problem/A)
+  ### SOLUTION [CLICK MEE](http://codeforces.com/contest/854/submission/42498794)
   
   
   ### HE HE HE, Thank you :) 
