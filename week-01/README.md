@@ -22,4 +22,4 @@
 [QUESTIONS](http://codeforces.com/contest/912/problem/A)
 [SOLUTIONS](http://codeforces.com/contest/912/submission/42419986).
 
-##Thank you :)
+## Thank you :)
