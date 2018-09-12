@@ -28,11 +28,15 @@ X
 ___
 
 ## - Problem 768A - Oath of the Night's Watch -
+  For this problem is quite simple, Jon Snow has a task to support his stewards. But there are some condition, that he made.
+  He has _n_ stewards and each stewards has his own strength. The condition is Jon Snow gonna support a **Steward** only if there exist
+  at least one steward who has strength strictly less than him (the "first" **steward**) and at least one steward who has strength
+  strictly greater than him (the "first" **steward**).
+  for this problem, i use comb sort.
   
-  
-[QUESTIONS](www.google.com)
+[QUESTIONS](http://codeforces.com/problemset/problem/768/A)
 X
-[SOLUTIONS](www.google.com)
+[SOLUTIONS](http://codeforces.com/contest/768/submission/42788505)
 
 ### Thank you :)
 ___
