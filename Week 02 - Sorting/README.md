@@ -18,11 +18,16 @@ X
 ___
 
 ## - Problem 230A - Dragons -
+  So for this problem we need to declare kirito and dragons strength, and kirito strength equals _s_.
+  the condition we need to figure is , when kirito start dueling with the dragon,
+  we need to think about the kirito's strength is not greater than the dragon's strength, then kirito will lose the match.
+  But if Kirito's strength is greater than the dragon's strength, then he defeats the dragon and gets a bonus strength.
+  for this problem i use gnome sort, but i modified a bit so it can sort 2 array in one time.
+  the other explanation you can find it directly in **Solutions** .
   
-  
-[QUESTIONS](www.google.com)
+[QUESTIONS](http://codeforces.com/problemset/problem/230/A)
 X
-[SOLUTIONS](www.google.com)
+[SOLUTIONS](http://codeforces.com/contest/230/submission/42803008)
 
 ### Thank you :)
 ___
