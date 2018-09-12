@@ -10,6 +10,7 @@
      - The other condition is, if the first data not zero and there are 2 data that have same value, then the counter will increase
 
 [QUESTIONS](http://codeforces.com/problemset/problem/291/A)
+X
 [SOLUTIONS](http://codeforces.com/contest/291/submission/42783906).
 
 ### Thank you :)
@@ -20,6 +21,7 @@ ___
   
   
 [QUESTIONS](www.google.com)
+X
 [SOLUTIONS](www.google.com)
 
 ### Thank you :)
@@ -29,6 +31,7 @@ ___
   
   
 [QUESTIONS](www.google.com)
+X
 [SOLUTIONS](www.google.com)
 
 ### Thank you :)
