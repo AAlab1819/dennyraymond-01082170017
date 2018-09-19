@@ -18,7 +18,9 @@ then check, if there are 1 in any of the dragon input,then all the draagons will
 
 Complexity :
   Average case: θ(n) - it need to check every loop which start from 1 to total of the dragon
+  
   Worst case: O(n)
+  
   Best case: Ω(1) - if all of the four dragon damage input equal 1
   
   
