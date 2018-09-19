@@ -1,10 +1,17 @@
 # HELLO PLEASE READ THIS 
 ---
 ## - PROBLEM 492B - Vanya and Lanterns -
-  ....
-[QUESTIONS](http://google.com/)
+  For this proble, We are ask for finding the minimum radius of the lantern to light up all the street
+  First we need to sort the lantern ascendingly then we can get the largest gap between those lantern and divided it by two.
+  next is we compared it, if the gap is bigger than the new light radius, the light radius = the gap. then we compare again the gap of last lantern with the end length of the street to get the minimum light radius needs for entire street.
+  
+  Complexity :
+
+  Best case: Ω(1)
+  
+[QUESTIONS](http://codeforces.com/problemset/problem/492/B)
 X
-[SOLUTIONS](http://google.com/).
+[SOLUTIONS](http://codeforces.com/contest/492/submission/43073903).
 
 ### Thank you :)
 
