@@ -15,6 +15,7 @@ ___
 first input all the condition of the dragon to get damaged. 
 then check, if there are 1 in any of the dragon input,then all the draagons will be damaged, because 1 can be divided by any number    then it equal 0. Or if there are other number than 1, then we do loop for every dragon, if the value of the dragon can be divided by 1 without remainder, then increment dragon damage.
 
+
 Complexity :
   Average case: θ(n) - it need to check every loop which start from 1 to total of the dragon
   Worst case: O(n)
