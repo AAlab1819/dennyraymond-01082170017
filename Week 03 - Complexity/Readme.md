@@ -10,10 +10,15 @@ X
 
 ___
 ## - PROBLEM 148A - Insomnia cure -
-  ....
-[QUESTIONS](http://google.com/)
+  For this problem, we need to count how many dragons that damage cause by the princess.
+  the solutions goes like this, 
+first input all the condition of the dragon to get damaged. 
+then check, if there are 1 in any of the dragon input,then all the draagons will be damaged, because 1 can be divided by any number    then it equal 0. Or if there are other number than 1, then we do loop for every dragon, if the value of the dragon can be divided by 1 without remainder, then increment dragon damage.
+  
+  
+[QUESTIONS](http://codeforces.com/contest/148/problem/A)
 X
-[SOLUTIONS](http://google.com/).
+[SOLUTIONS](http://codeforces.com/contest/148/submission/43069552).
 
 ### Thank you :)
 
