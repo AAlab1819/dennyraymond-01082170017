@@ -27,6 +27,11 @@ ___
   2. second is i declare the all the level to 1, it indicates that level is not pass yet.
   3. third i assign the total level of X can do and which level that X can do, same with Y.
   4. fourth i check if there are unsolved levels remain, by assign the all the unsolved level to __True__ if found level that still      equals to __1__.
+  
+  Complexity :
+  Average case: θ(n)
+  Worst case: O(n)
+  Best case: Ω(n)
  
 [QUESTIONS](http://codeforces.com/contest/469/problem/A)
 X
