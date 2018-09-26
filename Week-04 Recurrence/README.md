@@ -19,11 +19,28 @@ X
 ___
 ## - PROBLEM 598D - Igor In the Museum -
 
-Complexity :
+for this problem, the concept is like this :
+the "*" is stand for paintings that igor can see
+the "." is stand for empty space that igor can walk freely
+so for the example is like this :
+<pre>
+        ******
+        *..*.*
+        ******
+        *....*
+        ******
+  
+  see that either in coordinate (2,2) or (2,3) igor still gonna see the total of 6 paintings
+  the rest goes the same.
+</pre>
+
+__so we just need to store the region position__, because as long as igor in that region, dont care in which position he start to see the paintings, its going to have same number of the total painting he can see. i use floodfill algorithm in this problem. thanks to geeks for geeks and fellow friends for helping me to solve this problem :) 
+
+Complexity : O(nm)
  
-[QUESTIONS](http://codeforces.com/contest/148/problem/A)
+[QUESTIONS](http://codeforces.com/contest/598/problem/D)
 X
-[SOLUTIONS](http://codeforces.com/contest/148/submission/43069552).
+[SOLUTIONS](http://codeforces.com/contest/598/submission/43458872).
 
 ### Thank you :)
 
