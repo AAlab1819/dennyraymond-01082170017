@@ -7,7 +7,7 @@ For this problem we need to calculated how many groups can be make for a party i
 
 we must check also how many the employees and ehich one of the employee that did not have manager, then it will be "-1"
 
-  Complexity : O(n2)
+  Complexity : O(n2) - Worst Case
   
 [QUESTIONS](http://codeforces.com/problemset/problem/115/A)
 X
@@ -21,7 +21,7 @@ FOr this problem we need to check if a tree have a spruce or not, in conditions 
 then we need to calculate also the amount of the children from each vertice. and then we check if its has 0 children or have more than 0 but less than 3, if the condition is have 0 children then print "Yes", others "No". 
 
 
-Complexity : O(n)
+Complexity : O(n) - Worst Case
  
 [QUESTIONS](http://codeforces.com/problemset/problem/913/B)
 X
@@ -33,7 +33,7 @@ ___
 ## - PROBLEM 4C - Registration-
 FOr this problem we need to check if the name had been registered in the name list or no, if its never registered before we can output "OK", but if its already registered before then the output is "(theName)1", "(thename)2", etc
 
-Complexity : O(nlogn)
+Complexity : O(nlogn) - Worst Case
  
 [QUESTIONS](http://codeforces.com/problemset/problem/4/C)
 X
