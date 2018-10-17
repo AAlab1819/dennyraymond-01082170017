@@ -20,7 +20,7 @@ so the solution is we collect the IDs and the "New Score" ( which get from old s
 
 ___
 ## - Find the running median -
-FOr this problem we need to check 
+Skip - on progress :) 
 
 Complexity : 
  
