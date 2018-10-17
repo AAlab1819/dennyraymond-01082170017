@@ -15,8 +15,6 @@ so the solution is we collect the IDs and the "New Score" ( which get from old s
   Complexity : O(nlogn)
   
 [QUESTIONS](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/roy-and-trending-topics-1/)
-X
-[SOLUTIONS](Belum).
 
 ### Thank you :)
 
