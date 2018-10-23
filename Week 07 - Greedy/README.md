@@ -16,13 +16,14 @@ X
 
 ___
 ## - 978B - File Name -
-on progress :) 
+For this problem, we need to check how much the 'x' need to remove from the array of character
+so, we just need to compare each of the character, if there are 3 'x' character in sequence, then total remove +1.
 
-Complexity : 
+Complexity : O(n)
  
 [QUESTIONS](http://codeforces.com/problemset/problem/978/B)
 X
-[SOLUTIONS](Belum).
+[SOLUTIONS](http://codeforces.com/contest/978/submission/44722562).
 
 ### Thank you :)
 
