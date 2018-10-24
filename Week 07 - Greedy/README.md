@@ -29,13 +29,14 @@ X
 
 ___
 ## - 731B - Coupons and Discount -
-on progress :) 
+For this problem, we need to check wheter sereja can only use coupons and discounts to buy pizza.
+the condition is if use coupons, sereja can get 1 pizza for 2 days, other condition is if use discount, sereja can get 2 pizza in same day. so the codes is running like, first we check if on that day, the teams that will come are even or odd, if odd, then we check again if the next day need extra pizza or not, or last day team are odd or not.
 
-Complexity : 
+Complexity : O(n)
  
 [QUESTIONS](http://codeforces.com/problemset/problem/731/B)
 X
-[SOLUTIONS](Belum).
+[SOLUTIONS](http://codeforces.com/contest/731/submission/44757579).
 
 ### Thank you :)
 
