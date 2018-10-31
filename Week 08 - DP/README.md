@@ -32,9 +32,10 @@ For this problem we need to find the smallest number of roubles we need to pay i
 a single bottle of type i will have volume 2^(i-1) liters and cost bottleCost Roubles. 
 
    The solution to this problem we need first making an optimal list from the given list. If the price of 2 1L bottles is cheaper than 1 2L bottle, then it's better to buy 2 1L bottles. After doing so, we realize that the price at the end will be the most bang for your buck, regardless of whether it is made up of smaller bottles or 1 bottle. Then, we may think that we just need to grab the bottle with the most bang for your buck then, however that may not be the case. It is possible that we may find cheaper alternatives with enough L of lemonade that we needs, and so we will compare the previous price and the current price to find the cheaper price. 
-<pr> Current price can be calculated by :
+   
+<pre> Current price can be calculated by :
   adding sum(previous sum + bottles needed x price) + L(liter of lemonade needed left after subtracting L of bottles needed) x price.
- </pr>
+ </pre>
 
 Bottles needed is the maximum amount of bottles "i" we can use to cover as much L of lemonade that is left, but not more than L. This will go on until we finally have our cheapest combination.
 
